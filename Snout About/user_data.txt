@@ -1,0 +1,6 @@
+Last_Name,First_Name,Age,Gender,Pet,Language,Rating
+Lianto,Aaron,20,m,Fish,English,0
+Test,Test,14,f,Dog,Indian,0
+Test2,Test2,18,m,Cat,Chinese,1
+Test3,Test3,25,m,Fish,English,0
+t4,t4,21,f,N/A,English,0
